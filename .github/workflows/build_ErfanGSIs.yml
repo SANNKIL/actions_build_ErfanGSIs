@@ -16,7 +16,7 @@ on:
 env:
   ROM_URL: https://xiaomirom.com/download/redmi-note-12-sunstone-stable-V13.0.3.0.SMQCNXM/#china-recovery
   ROM_NAME: MIUI
-  BUILD_TYPE: ab
+  BUILD_TYPE: AB
   TZ: Asia/Shanghai
 
 jobs:
